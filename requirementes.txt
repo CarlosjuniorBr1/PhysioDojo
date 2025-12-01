@@ -1,0 +1,6 @@
+# Dependências principais para Visão Computacional e Análise de Movimento
+mediapipe
+opencv-python
+
+# Dependência para manipulação numérica e cálculo de ângulos
+numpy
